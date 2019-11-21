@@ -1,2 +1,2 @@
 # Code
-This is Shiyanlou  LouPlus  Codings
+This is Shiyanlou  LouPlus  Code
